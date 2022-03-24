@@ -1,3 +1,4 @@
+// Remove duplicate element from arr
 var arr = [1,2,3,4,4,5,5];
 var unique=[];
 var present = false;
